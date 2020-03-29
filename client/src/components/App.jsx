@@ -19,6 +19,9 @@ class App extends React.Component {
                 <PrimaryNav />
                 <SecondaryNav />
                 <SocialBar />
+                <div className="disclaimer">
+                    Prices and offers are subject to change. © 2020 Best Buy. All rights reserved. BEST BUY, the BEST BUY logo, the tag design, MY BEST BUY, and BESTBUY.COM are trademarks of Best Buy and its affiliated companies.
+                </div>
             </footer>
         );
     }
