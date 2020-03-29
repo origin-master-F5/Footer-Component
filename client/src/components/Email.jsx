@@ -27,8 +27,11 @@ class Email extends React.Component {
                             {
                                 this.state.view === 'submitted'
                                     ?
-                                    <div className="success-message-wrap"><span className="success-message">
-                                        <img className="footer-email-field-check-icon" src="https://www.bestbuy.com/~assets/bby/_com//shop/footer/dist/client/images/4b6960d3dfba2ea59ca90c1dc68df5ac.svg" alt="check icon" />Thanks!</span>
+                                    <div className="success-message-wrap">
+                                        <span className="success-message">
+                                            <img className="footer-email-field-check-icon" src="https://www.bestbuy.com/~assets/bby/_com//shop/footer/dist/client/images/4b6960d3dfba2ea59ca90c1dc68df5ac.svg" alt="check icon" />
+                                            Thanks!
+                                        </span>
                                     </div>
                                     :
                                     <div className="input-wrapper">
