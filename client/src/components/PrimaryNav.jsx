@@ -5,7 +5,7 @@ const PrimaryNav = (props) => (
         <div className="col-wrapper">
             <div className="primary-navigation-block">
                 <h3 className="title">
-                    <a className="heading-6" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                    <a className="heading" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                         My Best Buy ›
                     </a>
                 </h3>
@@ -29,7 +29,7 @@ const PrimaryNav = (props) => (
             </div>
             <div className="primary-navigation-block">
                 <h3 className="title">
-                    <a className="heading-6" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                    <a className="heading" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                         Credit Cards ›
                     </a>
                 </h3>
@@ -60,7 +60,7 @@ const PrimaryNav = (props) => (
         <div className="col-wrapper">
             <div className="primary-navigation-block">
                 <h3 className="title">
-                    <a className="heading-6" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                    <a className="heading" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                         Orders &amp; Returns ›
                     </a>
                 </h3>
@@ -91,7 +91,7 @@ const PrimaryNav = (props) => (
         <div className="col-wrapper">
             <div className="primary-navigation-block">
                 <h3 className="title">
-                    <a className="heading-6" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                    <a className="heading" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                         Support &amp; Services ›
                     </a>
                 </h3>
@@ -127,7 +127,7 @@ const PrimaryNav = (props) => (
         <div className="col-wrapper">
             <div className="primary-navigation-block">
                 <h3 className="title">
-                    <a className="heading-6" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                    <a className="heading" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                         Partnerships ›
                     </a>
                 </h3>
@@ -161,7 +161,7 @@ const PrimaryNav = (props) => (
             </div>
             <div className="primary-navigation-block">
                 <h3 className="title">
-                    <a className="heading-6" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                    <a className="heading" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                         International Sites ›
                     </a>
                 </h3>
