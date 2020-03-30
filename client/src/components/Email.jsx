@@ -54,7 +54,7 @@ class Email extends React.Component {
                     </div>
                     <div className="bby-logo-div">
                         <div className="bby-logo-wrapper">
-                            <img className="bby-logo" alt="bby-logo" src="./images/app-logo.png" />
+                            <img className="bby-logo" alt="bby-logo" src="https://bby-reviews-images.s3-us-west-1.amazonaws.com/app-logo.png" />
                             <a className="app-entry" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                                 <span className="app-entry-label">Best Buy app</span>
                                 <span className="app-entry-action">Learn more ›</span>
