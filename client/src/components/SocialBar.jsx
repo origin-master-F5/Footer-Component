@@ -5,16 +5,16 @@ const SocialBar = (props) => (
         <div className="social-device">
             <span className="social-links">
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-                    <img className="social-img" src="/images/fb.png" alt="Best Buy Facebook" />
+                    <img className="social-img" src="https://bby-reviews-images.s3-us-west-1.amazonaws.com/fb.png" alt="Best Buy Facebook" />
                 </a>
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-                    <img className="social-img" src="/images/tweet.png" alt="Best Buy Twitter" />
+                    <img className="social-img" src="https://bby-reviews-images.s3-us-west-1.amazonaws.com/tweet.png" alt="Best Buy Twitter" />
                 </a>
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-                    <img className="social-img" src="/images/ig.png" alt="Best Buy Instagram" />
+                    <img className="social-img" src="https://bby-reviews-images.s3-us-west-1.amazonaws.com/ig.png" alt="Best Buy Instagram" />
                 </a>
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-                    <img className="social-img" src="/images/pin.png" alt="Best Buy Pinterest" />
+                    <img className="social-img" src="https://bby-reviews-images.s3-us-west-1.amazonaws.com/pin.png" alt="Best Buy Pinterest" />
                 </a >
             </span >
             <button type="button" className="btn-unstyled device-redirect-link">Mobile Site</button>
